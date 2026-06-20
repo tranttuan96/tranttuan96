@@ -17,6 +17,11 @@ I build clean, performant web applications and care deeply about software archit
 
 ---
 
+### 📊 GitHub Activity
+<p align="left">
+  <img src="stats.svg" alt="Tuan's GitHub stats" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
