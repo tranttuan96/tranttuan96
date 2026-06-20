@@ -11,19 +11,16 @@ I build clean, performant web applications and care deeply about software archit
 
 ### 🚀 What I'm currently building
 - 🏡 **HomeHub (Private):** A personal finance & asset management platform built with **Turborepo**, **NestJS monolith**, and cutting-edge AI integrations (**Gemini RAG + MCP Server**).
+- 🌸 **[Nhung Growth Hub](https://github.com/tranttuan96/nhung-growth-hub):** A high-performance lead generation & portfolio website built with **Astro** for optimized SEO and speed.
 - 💼 **Career Platforms (WIP):** Architecting modern job board & career guidance platforms (`Job Pilot` & `Career Copilot`).
 - 🌐 **[My Portfolio](https://github.com/tranttuan96/my-portfolio):** The source code for my minimalist portfolio built with Vite and TypeScript.
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Vue, TypeScript, TailwindCSS
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **DevOps & Tools:** Docker, Turborepo, Vercel, GitHub Actions
-
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranttuan96&show_icons=true&theme=radical&hide_border=true" alt="Tuan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranttuan96&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,astro,tailwind,nodejs,nestjs,postgres,mongo,redis,docker,vercel&perline=14" alt="Tech Stack" />
+  </a>
 </p>
