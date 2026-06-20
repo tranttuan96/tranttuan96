@@ -7,6 +7,8 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -15,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           card: stats
-          options: "username=tranttuan96&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+          options: "username=tranttuan96&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true"
           path: stats.svg
 
       - name: Commit Stats
