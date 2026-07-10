@@ -10,9 +10,8 @@ I build clean, performant web applications and care deeply about software archit
 ---
 
 ### 🚀 What I'm currently building
-- 🏡 **HomeHub (Private):** A personal finance & asset management platform built with **Turborepo**, **NestJS monolith**, and cutting-edge AI integrations (**Gemini RAG + MCP Server**).
+- 🏡 **HomeHub (Private):** A personal finance & asset management platform built with **Turborepo**, **NestJS monolith**, and cutting-edge AI integrations (**MCP Server**).
 - 🌸 **[Nhung Growth Hub](https://github.com/tranttuan96/nhung-growth-hub):** A high-performance lead generation & portfolio website built with **Astro** for optimized SEO and speed.
-- 💼 **Career Platforms (WIP):** Architecting modern job board & career guidance platforms (`Job Pilot` & `Career Copilot`).
 - 🌐 **[My Portfolio](https://github.com/tranttuan96/my-portfolio):** The source code for my minimalist portfolio built with Vite and TypeScript.
 
 ---
