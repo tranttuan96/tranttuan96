@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Tuan Tran's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 1687, Total PRs: 380</desc>
+        <desc id="descId">Total Commits  : 1704, Total PRs: 380</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.01722765194665;
+        stroke-dashoffset: 138.86483320342302;
       }
     }
   
